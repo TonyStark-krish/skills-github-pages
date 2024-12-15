@@ -1,5 +1,7 @@
 ---
-title: Welcome to my blog
-Name: Krishna
----
+title: Welcome to my blogmy-pages
+name: Krishna
+name: Krishna
+main
+
 
